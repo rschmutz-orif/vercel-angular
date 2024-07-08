@@ -12,7 +12,6 @@ import {CommonModule} from '@angular/common';
         <button class="primary" type="button">Rechercher</button>
       </form>
     </section>
-  `,
   styleUrls: ['./home.component.css'],
 })
 export class HomeComponent {}
