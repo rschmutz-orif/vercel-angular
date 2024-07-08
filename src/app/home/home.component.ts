@@ -9,7 +9,7 @@ import {CommonModule} from '@angular/common';
     <section>
       <form>
         <input type="text" placeholder="Filter by city" />
-        <button class="primary" type="button">Search</button>
+        <button class="primary" type="button">Rechercher</button>
       </form>
     </section>
   `,
